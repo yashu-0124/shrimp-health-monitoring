@@ -1,0 +1,1128 @@
+{
+  "@@locale": "en",
+  
+  "appName": "AQA SHRIMP AI",
+  "@appName": {
+    "description": "Application name"
+  },
+  
+  "welcomeBack": "Welcome Back!",
+  "@welcomeBack": {
+    "description": "Login page welcome message"
+  },
+  
+  "signInToContinue": "Sign in to continue to AQA Shrimp AI",
+  "@signInToContinue": {
+    "description": "Login page subtitle"
+  },
+  
+  "emailAddress": "Email Address",
+  "@emailAddress": {
+    "description": "Email field label"
+  },
+  
+  "enterYourEmail": "Enter your email",
+  "@enterYourEmail": {
+    "description": "Email field hint"
+  },
+  
+  "pleaseEnterYourEmail": "Please enter your email",
+  "@pleaseEnterYourEmail": {
+    "description": "Email validation message"
+  },
+  
+  "pleaseEnterValidEmail": "Please enter a valid email",
+  "@pleaseEnterValidEmail": {
+    "description": "Email format validation"
+  },
+  
+  "password": "Password",
+  "@password": {
+    "description": "Password field label"
+  },
+  
+  "enterYourPassword": "Enter your password",
+  "@enterYourPassword": {
+    "description": "Password field hint"
+  },
+  
+  "pleaseEnterYourPassword": "Please enter your password",
+  "@pleaseEnterYourPassword": {
+    "description": "Password validation message"
+  },
+  
+  "logIn": "Log In",
+  "@logIn": {
+    "description": "Login button text"
+  },
+  
+  "or": "OR",
+  "@or": {
+    "description": "Separator text"
+  },
+  
+  "createNewAccount": "Create New Account",
+  "@createNewAccount": {
+    "description": "Create account button"
+  },
+  
+  "termsAndPrivacy": "By logging in, you agree to our Terms of Service and Privacy Policy",
+  "@termsAndPrivacy": {
+    "description": "Terms message on login"
+  },
+  
+  "loginFailed": "Login failed",
+  "@loginFailed": {
+    "description": "Login error message"
+  },
+  
+  "createAccount": "Create Account",
+  "@createAccount": {
+    "description": "Signup page title"
+  },
+  
+  "joinAQAShrimpAI": "Join AQA Shrimp AI today",
+  "@joinAQAShrimpAI": {
+    "description": "Signup page subtitle"
+  },
+  
+  "back": "Back",
+  "@back": {
+    "description": "Back button text"
+  },
+  
+  "fullName": "Full Name",
+  "@fullName": {
+    "description": "Full name field label"
+  },
+  
+  "enterYourFullName": "Enter your full name",
+  "@enterYourFullName": {
+    "description": "Full name field hint"
+  },
+  
+  "pleaseEnterYourFullName": "Please enter your full name",
+  "@pleaseEnterYourFullName": {
+    "description": "Full name validation"
+  },
+  
+  "farmNamePondID": "Farm Name / Pond ID",
+  "@farmNamePondID": {
+    "description": "Farm name field label"
+  },
+  
+  "enterFarmOrPondName": "Enter farm or pond name",
+  "@enterFarmOrPondName": {
+    "description": "Farm name field hint"
+  },
+  
+  "pleaseEnterFarmNameOrPondID": "Please enter farm name or pond ID",
+  "@pleaseEnterFarmNameOrPondID": {
+    "description": "Farm name validation"
+  },
+  
+  "phoneNumber": "Phone Number",
+  "@phoneNumber": {
+    "description": "Phone number field label"
+  },
+  
+  "enterYourPhoneNumber": "Enter your phone number",
+  "@enterYourPhoneNumber": {
+    "description": "Phone number field hint"
+  },
+  
+  "pleaseEnterYourPhoneNumber": "Please enter your phone number",
+  "@pleaseEnterYourPhoneNumber": {
+    "description": "Phone number validation"
+  },
+  
+  "pleaseEnterValidPhoneNumber": "Please enter a valid phone number",
+  "@pleaseEnterValidPhoneNumber": {
+    "description": "Phone number format validation"
+  },
+  
+  "preferredLanguage": "Preferred Language",
+  "@preferredLanguage": {
+    "description": "Language selection label"
+  },
+  
+  "createStrongPassword": "Create a strong password",
+  "@createStrongPassword": {
+    "description": "Password creation hint"
+  },
+  
+  "pleaseEnterPassword": "Please enter a password",
+  "@pleaseEnterPassword": {
+    "description": "Password required validation"
+  },
+  
+  "passwordMinLength": "Password must be at least 6 characters",
+  "@passwordMinLength": {
+    "description": "Password length validation"
+  },
+  
+  "confirmPassword": "Confirm Password",
+  "@confirmPassword": {
+    "description": "Confirm password field label"
+  },
+  
+  "reEnterYourPassword": "Re-enter your password",
+  "@reEnterYourPassword": {
+    "description": "Confirm password hint"
+  },
+  
+  "pleaseConfirmYourPassword": "Please confirm your password",
+  "@pleaseConfirmYourPassword": {
+    "description": "Confirm password validation"
+  },
+  
+  "passwordsDoNotMatch": "Passwords do not match",
+  "@passwordsDoNotMatch": {
+    "description": "Password mismatch validation"
+  },
+  
+  "alreadyHaveAccount": "Already have an account? ",
+  "@alreadyHaveAccount": {
+    "description": "Login link text on signup"
+  },
+  
+  "termsAndPrivacySignup": "By creating an account, you agree to our Terms of Service and Privacy Policy",
+  "@termsAndPrivacySignup": {
+    "description": "Terms message on signup"
+  },
+  
+  "signupFailed": "Signup failed",
+  "@signupFailed": {
+    "description": "Signup error message"
+  },
+  
+  "welcomeTo": "Welcome to",
+  "@welcomeTo": {
+    "description": "Main page welcome text"
+  },
+  
+  "smartAnalytics": "Smart Analytics",
+  "@smartAnalytics": {
+    "description": "Feature card title"
+  },
+  
+  "smartAnalyticsDesc": "Monitor your shrimp farm with AI-powered insights",
+  "@smartAnalyticsDesc": {
+    "description": "Feature card description"
+  },
+  
+  "waterQuality": "Water Quality",
+  "@waterQuality": {
+    "description": "Feature card title"
+  },
+  
+  "waterQualityDesc": "Real-time water quality monitoring and alerts",
+  "@waterQualityDesc": {
+    "description": "Feature card description"
+  },
+  
+  "growthTracking": "Growth Tracking",
+  "@growthTracking": {
+    "description": "Feature card title"
+  },
+  
+  "growthTrackingDesc": "Track shrimp growth and predict harvest times",
+  "@growthTrackingDesc": {
+    "description": "Feature card description"
+  },
+  
+  "profileHint": "Tap the profile icon in the top right to view your account details",
+  "@profileHint": {
+    "description": "Hint message on main page"
+  },
+  
+  "myProfile": "My Profile",
+  "@myProfile": {
+    "description": "Profile page title"
+  },
+  
+  "farmName": "Farm Name",
+  "@farmName": {
+    "description": "Farm name label on profile"
+  },
+  
+  "enterYourFarmName": "Enter your farm name",
+  "@enterYourFarmName": {
+    "description": "Farm name hint on profile"
+  },
+  
+  "pleaseEnterYourFarmName": "Please enter your farm name",
+  "@pleaseEnterYourFarmName": {
+    "description": "Farm name validation on profile"
+  },
+  
+  "saveChanges": "Save Changes",
+  "@saveChanges": {
+    "description": "Save button text"
+  },
+  
+  "signOut": "Sign Out",
+  "@signOut": {
+    "description": "Sign out button text"
+  },
+  
+  "signOutConfirmTitle": "Sign Out",
+  "@signOutConfirmTitle": {
+    "description": "Sign out dialog title"
+  },
+  
+  "signOutConfirmMessage": "Are you sure you want to sign out?",
+  "@signOutConfirmMessage": {
+    "description": "Sign out confirmation message"
+  },
+  
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+  
+  "profileUpdatedSuccessfully": "Profile updated successfully",
+  "@profileUpdatedSuccessfully": {
+    "description": "Success message"
+  },
+  
+  "failedToLoadProfile": "Failed to load profile",
+  "@failedToLoadProfile": {
+    "description": "Error loading profile"
+  },
+  
+  "failedToUpdateProfile": "Failed to update profile",
+  "@failedToUpdateProfile": {
+    "description": "Error updating profile"
+  },
+  
+  "loading": "Loading...",
+  "@loading": {
+    "description": "Loading text"
+  },
+  
+  "signup": "Signup",
+  "@signup": {
+    "description": "Signup button on start page"
+  },
+  
+  "login": "Login",
+  "@login": {
+    "description": "Login button on start page"
+  },
+  
+  "shrimpHealthProductivity": "Shrimp Health & Productivity\\nIntelligence",
+  "@shrimpHealthProductivity": {
+    "description": "Start page tagline"
+  },
+  
+  "experienceMedicalGrade": "Experience medical-grade aquaculture insights.",
+  "@experienceMedicalGrade": {
+    "description": "Start page description"
+  },
+  
+  "english": "English",
+  "@english": {
+    "description": "English language name"
+  },
+  
+  "telugu": "Telugu",
+  "@telugu": {
+    "description": "Telugu language name"
+  },
+  
+  "hindi": "Hindi",
+  "@hindi": {
+    "description": "Hindi language name"
+  },
+  
+  "tamil": "Tamil",
+  "@tamil": {
+    "description": "Tamil language name"
+  },
+  
+  "kannada": "Kannada",
+  "@kannada": {
+    "description": "Kannada language name"
+  },
+  
+  "dashboard": "Dashboard",
+  "@dashboard": {
+    "description": "Dashboard title"
+  },
+  
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings menu"
+  },
+  
+  "account": "Account",
+  "@account": {
+    "description": "Account menu item"
+  },
+  
+  "manageYourProfile": "Manage your profile and account",
+  "@manageYourProfile": {
+    "description": "Account subtitle"
+  },
+  
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "Notifications setting"
+  },
+  
+  "notificationsEnabled": "Receive app notifications",
+  "@notificationsEnabled": {
+    "description": "Notifications enabled status"
+  },
+  
+  "notificationsDisabled": "Notifications are disabled",
+  "@notificationsDisabled": {
+    "description": "Notifications disabled status"
+  },
+  
+  "languageChange": "Language",
+  "@languageChange": {
+    "description": "Language change option"
+  },
+  
+  "selectLanguage": "Select Language",
+  "@selectLanguage": {
+    "description": "Language selection dialog title"
+  },
+  
+  "languageChanged": "Language changed successfully",
+  "@languageChanged": {
+    "description": "Language change success message"
+  },
+  
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button"
+  },
+  
+  "about": "About",
+  "@about": {
+    "description": "About menu item"
+  },
+  
+  "appInfo": "App information and policies",
+  "@appInfo": {
+    "description": "About subtitle"
+  },
+  
+  "version": "Version",
+  "@version": {
+    "description": "App version label"
+  },
+  
+  "appVersion": "App Version",
+  "@appVersion": {
+    "description": "App version menu item"
+  },
+  
+  "aboutApp": "About AQA SHRIMP AI",
+  "@aboutApp": {
+    "description": "About app section title"
+  },
+  
+  "aboutDescription": "AQA SHRIMP AI is an advanced aquaculture management platform powered by artificial intelligence. We provide shrimp farmers with intelligent tools for disease detection, size calculation, feed management, and real-time market insights to maximize productivity and profitability.",
+  "@aboutDescription": {
+    "description": "App description"
+  },
+  
+  "privacyPolicy": "Privacy Policy",
+  "@privacyPolicy": {
+    "description": "Privacy policy menu item"
+  },
+  
+  "privacyPolicyContent": "Your privacy is important to us. AQA SHRIMP AI collects and processes data necessary to provide our services. We do not sell your personal information to third parties. All data is encrypted and stored securely. By using this app, you agree to our data collection and usage practices.",
+  "@privacyPolicyContent": {
+    "description": "Privacy policy content"
+  },
+  
+  "termsOfService": "Terms of Service",
+  "@termsOfService": {
+    "description": "Terms of service menu item"
+  },
+  
+  "termsOfServiceContent": "By using AQA SHRIMP AI, you agree to our terms and conditions. This app is provided 'as is' for informational purposes. While we strive for accuracy, we do not guarantee the precision of AI predictions. Users are responsible for verifying all recommendations before implementation. Professional consultation is advised for critical decisions.",
+  "@termsOfServiceContent": {
+    "description": "Terms of service content"
+  },
+  
+  "madeWithLove": "Made with ❤️ for Shrimp Farmers",
+  "@madeWithLove": {
+    "description": "Developer credit"
+  },
+  
+  "close": "Close",
+  "@close": {
+    "description": "Close button"
+  },
+  
+  "shrimpDiseaseAI": "Shrimp Disease AI",
+  "@shrimpDiseaseAI": {
+    "description": "Disease detection feature title"
+  },
+  
+  "shrimpDiseaseDesc": "AI-powered disease detection from shrimp images",
+  "@shrimpDiseaseDesc": {
+    "description": "Disease detection description"
+  },
+  
+  "sizeCalculation": "Size Calculation",
+  "@sizeCalculation": {
+    "description": "Size calculation feature title"
+  },
+  
+  "shrimpSizeCalculation": "Shrimp Size Calculation",
+  "@shrimpSizeCalculation": {
+    "description": "Size calculation page title"
+  },
+  
+  "feedCalculator": "Feed Calculator",
+  "@feedCalculator": {
+    "description": "Feed calculator feature title"
+  },
+  
+  "uploadShrimpImage": "Upload a clear image of the shrimp for AI analysis",
+  "@uploadShrimpImage": {
+    "description": "Disease upload instruction"
+  },
+  
+  "uploadShrimpImageForSize": "Upload shrimp image to calculate size and weight",
+  "@uploadShrimpImageForSize": {
+    "description": "Size calculation upload instruction"
+  },
+  
+  "tapToUploadImage": "Tap to Upload Image",
+  "@tapToUploadImage": {
+    "description": "Upload image prompt"
+  },
+  
+  "analyzeDisease": "Analyze Disease",
+  "@analyzeDisease": {
+    "description": "Analyze button for disease detection"
+  },
+  
+  "calculateSize": "Calculate Size",
+  "@calculateSize": {
+    "description": "Calculate button for size"
+  },
+  
+  "calculateFeed": "Calculate Feed",
+  "@calculateFeed": {
+    "description": "Calculate button for feed"
+  },
+  
+  "clearImage": "Clear Image",
+  "@clearImage": {
+    "description": "Clear image button"
+  },
+  
+  "analysisResult": "Analysis Result",
+  "@analysisResult": {
+    "description": "Analysis result title"
+  },
+  
+  "calculationResult": "Calculation Result",
+  "@calculationResult": {
+    "description": "Calculation result title"
+  },
+  
+  "detectedDisease": "Detected Disease",
+  "@detectedDisease": {
+    "description": "Detected disease label"
+  },
+  
+  "confidence": "Confidence",
+  "@confidence": {
+    "description": "Confidence level label"
+  },
+  
+  "severity": "Severity",
+  "@severity": {
+    "description": "Severity level label"
+  },
+  
+  "averageLength": "Average Length",
+  "@averageLength": {
+    "description": "Average length label"
+  },
+  
+  "averageWeight": "Average Weight",
+  "@averageWeight": {
+    "description": "Average weight label"
+  },
+  
+  "estimatedBiomass": "Estimated Biomass",
+  "@estimatedBiomass": {
+    "description": "Estimated biomass label"
+  },
+  
+  "shrimpCount": "Shrimp Count",
+  "@shrimpCount": {
+    "description": "Shrimp count label"
+  },
+  
+  "takePhoto": "Take Photo",
+  "@takePhoto": {
+    "description": "Take photo option"
+  },
+  
+  "chooseFromGallery": "Choose from Gallery",
+  "@chooseFromGallery": {
+    "description": "Choose from gallery option"
+  },
+  
+  "errorPickingImage": "Error picking image",
+  "@errorPickingImage": {
+    "description": "Image picker error message"
+  },
+  
+  "analysisComplete": "Analysis complete!",
+  "@analysisComplete": {
+    "description": "Analysis completion message"
+  },
+  
+  "calculationComplete": "Calculation complete!",
+  "@calculationComplete": {
+    "description": "Calculation completion message"
+  },
+  
+  "enterPondDetails": "Enter your pond details to calculate feed requirements",
+  "@enterPondDetails": {
+    "description": "Feed calculator instruction"
+  },
+  
+  "pondInformation": "Pond Information",
+  "@pondInformation": {
+    "description": "Pond information section title"
+  },
+  
+  "pondArea": "Pond Area",
+  "@pondArea": {
+    "description": "Pond area field label"
+  },
+  
+  "enterPondArea": "Enter pond area in square meters",
+  "@enterPondArea": {
+    "description": "Pond area hint"
+  },
+  
+  "pleaseEnterPondArea": "Please enter pond area",
+  "@pleaseEnterPondArea": {
+    "description": "Pond area validation"
+  },
+  
+  "enterShrimpCount": "Enter total number of shrimps",
+  "@enterShrimpCount": {
+    "description": "Shrimp count hint"
+  },
+  
+  "pleaseEnterShrimpCount": "Please enter shrimp count",
+  "@pleaseEnterShrimpCount": {
+    "description": "Shrimp count validation"
+  },
+  
+  "averageSize": "Average Size",
+  "@averageSize": {
+    "description": "Average size field label"
+  },
+  
+  "enterAverageSize": "Enter average shrimp size in grams",
+  "@enterAverageSize": {
+    "description": "Average size hint"
+  },
+  
+  "pleaseEnterAverageSize": "Please enter average size",
+  "@pleaseEnterAverageSize": {
+    "description": "Average size validation"
+  },
+  
+  "pleaseEnterValidNumber": "Please enter a valid number",
+  "@pleaseEnterValidNumber": {
+    "description": "Number validation message"
+  },
+  
+  "feedRecommendation": "Feed Recommendation",
+  "@feedRecommendation": {
+    "description": "Feed recommendation section title"
+  },
+  
+  "dailyFeedAmount": "Daily Feed Amount",
+  "@dailyFeedAmount": {
+    "description": "Daily feed amount label"
+  },
+  
+  "feedingFrequency": "Feeding Frequency",
+  "@feedingFrequency": {
+    "description": "Feeding frequency label"
+  },
+  
+  "feedPerMeal": "Feed Per Meal",
+  "@feedPerMeal": {
+    "description": "Feed per meal label"
+  },
+  
+  "monthlyFeedEstimate": "Monthly Feed Estimate",
+  "@monthlyFeedEstimate": {
+    "description": "Monthly feed estimate label"
+  },
+  
+  "suggestedSchedule": "Suggested Feeding Schedule",
+  "@suggestedSchedule": {
+    "description": "Feeding schedule title"
+  },
+  
+  "commonDiseases": "Common Shrimp Diseases",
+  "@commonDiseases": {
+    "description": "Common diseases section title"
+  },
+  
+  "symptoms": "Symptoms",
+  "@symptoms": {
+    "description": "Symptoms label"
+  },
+  
+  "prevention": "Prevention",
+  "@prevention": {
+    "description": "Prevention label"
+  },
+  
+  "learnMore": "Learn More",
+  "@learnMore": {
+    "description": "Learn more button"
+  },
+  
+  "wssvSymptoms": "White spots on shell, reduced feeding, lethargy, reddish discoloration",
+  "@wssvSymptoms": {
+    "description": "WSSV symptoms"
+  },
+  
+  "wssvPrevention": "Maintain water quality, quarantine new stock, use PCR-tested seeds, avoid stress",
+  "@wssvPrevention": {
+    "description": "WSSV prevention"
+  },
+  
+  "emsSymptoms": "Empty stomach, soft shell, pale hepatopancreas, slow growth, high mortality",
+  "@emsSymptoms": {
+    "description": "EMS symptoms"
+  },
+  
+  "emsPrevention": "Use quality feed, maintain optimal pH, reduce stocking density, improve biosecurity",
+  "@emsPrevention": {
+    "description": "EMS prevention"
+  },
+  
+  "ihhnvSymptoms": "Stunted growth, deformed rostrum, bent antenna, uneven sizes in pond",
+  "@ihhnvSymptoms": {
+    "description": "IHHNV symptoms"
+  },
+  
+  "ihhnvPrevention": "Source SPF broodstock, regular health monitoring, maintain water parameters",
+  "@ihhnvPrevention": {
+    "description": "IHHNV prevention"
+  },
+  
+  "yhdSymptoms": "Yellow head and gills, pale body, erratic swimming, sudden mass mortality",
+  "@yhdSymptoms": {
+    "description": "YHD symptoms"
+  },
+  
+  "yhdPrevention": "Avoid overstocking, ensure good aeration, use probiotics, regular water exchange",
+  "@yhdPrevention": {
+    "description": "YHD prevention"
+  },
+  
+  "marketPrices": "Market Prices",
+  "@marketPrices": {
+    "description": "Market prices section title"
+  },
+  
+  "weatherForecast": "Weather Forecast",
+  "@weatherForecast": {
+    "description": "Weather forecast title"
+  },
+  
+  "humidity": "Humidity",
+  "@humidity": {
+    "description": "Humidity label"
+  },
+  
+  "windSpeed": "Wind Speed",
+  "@windSpeed": {
+    "description": "Wind speed label"
+  },
+  
+  "rainfall": "Rainfall",
+  "@rainfall": {
+    "description": "Rainfall probability label"
+  },
+  
+  "weatherAdvisory": "Good conditions for farming. Monitor water quality closely.",
+  "@weatherAdvisory": {
+    "description": "Weather advisory message"
+  },
+  
+  "weatherUnavailable": "Weather data unavailable. Please check your connection.",
+  "@weatherUnavailable": {
+    "description": "Weather unavailable message"
+  },
+  
+  "dataRefreshed": "Data refreshed successfully",
+  "@dataRefreshed": {
+    "description": "Data refresh success message"
+  },
+  
+  "analyzingDisease": "Analyzing Disease...",
+  "@analyzingDisease": {
+    "description": "Analyzing disease loading message"
+  },
+  
+  "pleaseWaitAIAnalyzing": "Please wait while AI analyzes the image",
+  "@pleaseWaitAIAnalyzing": {
+    "description": "AI analysis wait message"
+  },
+  
+  "calculatingSize": "Calculating Size...",
+  "@calculatingSize": {
+    "description": "Calculating size loading message"
+  },
+  
+  "aiThinking": "AI is thinking...",
+  "@aiThinking": {
+    "description": "AI thinking indicator in chatbot"
+  },
+  
+  "initializingAI": "Initializing AI Assistant...",
+  "@initializingAI": {
+    "description": "AI initialization message"
+  },
+  
+  "poweredByGemini": "Powered by Google Gemini 2.5 Flash",
+  "@poweredByGemini": {
+    "description": "Gemini branding message"
+  },
+  
+  "diseaseInformation": "Disease Information",
+  "@diseaseInformation": {
+    "description": "Disease information section title"
+  },
+  
+  "confidenceBreakdown": "Confidence Breakdown",
+  "@confidenceBreakdown": {
+    "description": "Confidence breakdown section"
+  },
+  
+  "affectedAreas": "Affected Areas",
+  "@affectedAreas": {
+    "description": "Affected areas label"
+  },
+  
+  "symptoms": "Symptoms",
+  "@symptoms": {
+    "description": "Symptoms label"
+  },
+  
+  "treatment": "Treatment",
+  "@treatment": {
+    "description": "Treatment label"
+  },
+  
+  "medications": "Medications",
+  "@medications": {
+    "description": "Medications label"
+  },
+  
+  "precautions": "Precautions",
+  "@precautions": {
+    "description": "Precautions label"
+  },
+  
+  "alternatives": "Alternatives",
+  "@alternatives": {
+    "description": "Alternatives label"
+  },
+  
+  "productRecommendations": "Product Recommendations",
+  "@productRecommendations": {
+    "description": "Product recommendations section"
+  },
+  
+  "viewOnAmazon": "View on Amazon",
+  "@viewOnAmazon": {
+    "description": "Amazon link button"
+  },
+  
+  "viewOnFlipkart": "View on Flipkart",
+  "@viewOnFlipkart": {
+    "description": "Flipkart link button"
+  },
+  
+  "farmerGuidance": "Farmer Guidance",
+  "@farmerGuidance": {
+    "description": "Farmer guidance section"
+  },
+  
+  "immediateActions": "Immediate Actions",
+  "@immediateActions": {
+    "description": "Immediate actions label"
+  },
+  
+  "preventionTips": "Prevention Tips",
+  "@preventionTips": {
+    "description": "Prevention tips label"
+  },
+  
+  "monitoringAdvice": "Monitoring Advice",
+  "@monitoringAdvice": {
+    "description": "Monitoring advice label"
+  },
+  
+  "healthyShrimp": "Healthy Shrimp",
+  "@healthyShrimp": {
+    "description": "Healthy shrimp status"
+  },
+  
+  "noDiseasesDetected": "No diseases detected. Keep up the good work!",
+  "@noDiseasesDetected": {
+    "description": "No disease message"
+  },
+  
+  "visualInsights": "Visual Insights",
+  "@visualInsights": {
+    "description": "Visual insights section"
+  },
+  
+  "farmerSummary": "Farmer Summary",
+  "@farmerSummary": {
+    "description": "Farmer summary section"
+  },
+  
+  "overallHealth": "Overall Health",
+  "@overallHealth": {
+    "description": "Overall health label"
+  },
+  
+  "estimatedDaysToHarvest": "Estimated Days to Harvest",
+  "@estimatedDaysToHarvest": {
+    "description": "Days to harvest label"
+  },
+  
+  "feedingRecommendation": "Feeding Recommendation",
+  "@feedingRecommendation": {
+    "description": "Feeding recommendation label"
+  },
+  
+  "stockingDensity": "Stocking Density",
+  "@stockingDensity": {
+    "description": "Stocking density label"
+  },
+  
+  "cultureDuration": "Culture Duration",
+  "@cultureDuration": {
+    "description": "Culture duration label"
+  },
+  
+  "growthStage": "Growth Stage",
+  "@growthStage": {
+    "description": "Growth stage label"
+  },
+  
+  "feedingRate": "Feeding Rate",
+  "@feedingRate": {
+    "description": "Feeding rate label"
+  },
+  
+  "poundsPerAcre": "pounds/acre",
+  "@poundsPerAcre": {
+    "description": "Pounds per acre unit"
+  },
+  
+  "days": "days",
+  "@days": {
+    "description": "Days unit"
+  },
+  
+  "ofBodyWeight": "of body weight",
+  "@ofBodyWeight": {
+    "description": "Of body weight unit"
+  },
+  
+  "perDay": "per day",
+  "@perDay": {
+    "description": "Per day unit"
+  },
+  
+  "morningEarlyDawn": "Morning (Early Dawn)",
+  "@morningEarlyDawn": {
+    "description": "Morning feeding time"
+  },
+  
+  "midMorning": "Mid-Morning",
+  "@midMorning": {
+    "description": "Mid-morning feeding time"
+  },
+  
+  "afternoon": "Afternoon",
+  "@afternoon": {
+    "description": "Afternoon feeding time"
+  },
+  
+  "evening": "Evening",
+  "@evening": {
+    "description": "Evening feeding time"
+  },
+  
+  "lateEvening": "Late Evening",
+  "@lateEvening": {
+    "description": "Late evening feeding time"
+  },
+  
+  "midnightEarlyMorning": "Midnight/Early Morning",
+  "@midnightEarlyMorning": {
+    "description": "Midnight feeding time"
+  },
+  
+  "performanceMetrics": "Performance Metrics",
+  "@performanceMetrics": {
+    "description": "Performance metrics section"
+  },
+  
+  "feedConversionRatio": "Feed Conversion Ratio (FCR)",
+  "@feedConversionRatio": {
+    "description": "FCR label"
+  },
+  
+  "weeklyGrowth": "Weekly Growth",
+  "@weeklyGrowth": {
+    "description": "Weekly growth label"
+  },
+  
+  "survivalRate": "Survival Rate",
+  "@survivalRate": {
+    "description": "Survival rate label"
+  },
+  
+  "costAnalysis": "Cost Analysis",
+  "@costAnalysis": {
+    "description": "Cost analysis section"
+  },
+  
+  "dailyCost": "Daily Cost",
+  "@dailyCost": {
+    "description": "Daily cost label"
+  },
+  
+  "monthlyCost": "Monthly Cost",
+  "@monthlyCost": {
+    "description": "Monthly cost label"
+  },
+  
+  "expertRecommendations": "Expert Recommendations",
+  "@expertRecommendations": {
+    "description": "Expert recommendations section"
+  },
+  
+  "chatWithAI": "Chat with AI",
+  "@chatWithAI": {
+    "description": "Chat with AI feature"
+  },
+  
+  "askMeAnything": "Ask me anything about shrimp farming...",
+  "@askMeAnything": {
+    "description": "Chatbot placeholder"
+  },
+  
+  "typeYourMessage": "Type your message...",
+  "@typeYourMessage": {
+    "description": "Message input placeholder"
+  },
+  
+  "youText": "You",
+  "@youText": {
+    "description": "User message label"
+  },
+  
+  "aiAssistant": "AI Assistant",
+  "@aiAssistant": {
+    "description": "AI assistant label"
+  },
+  
+  "calculationResults": "Calculation Results",
+  "@calculationResults": {
+    "description": "Calculation results title"
+  },
+  
+  "feedCalculatorTitle": "Smart Feed Calculator",
+  "@feedCalculatorTitle": {
+    "description": "Feed calculator title"
+  },
+  
+  "shrimpChatbot": "Shrimp AI Chatbot",
+  "@shrimpChatbot": {
+    "description": "Chatbot page title"
+  },
+  
+  "scientificName": "Scientific Name",
+  "@scientificName": {
+    "description": "Scientific name label"
+  },
+  
+  "diseaseType": "Disease Type",
+  "@diseaseType": {
+    "description": "Disease type label"
+  },
+  
+  "diseaseStage": "Disease Stage",
+  "@diseaseStage": {
+    "description": "Disease stage label"
+  },
+  
+  "goodCondition": "Good Condition",
+  "@goodCondition": {
+    "description": "Good condition status"
+  },
+  
+  "excellentHealth": "Excellent Health",
+  "@excellentHealth": {
+    "description": "Excellent health status"
+  },
+  
+  "totalBiomass": "Total Biomass",
+  "@totalBiomass": {
+    "description": "Total biomass label"
+  },
+  
+  "averageWeightGrams": "Average Weight (grams)",
+  "@averageWeightGrams": {
+    "description": "Average weight in grams label"
+  },
+  
+  "averageLengthCm": "Average Length (cm)",
+  "@averageLengthCm": {
+    "description": "Average length in cm label"
+  },
+  
+  "errorAnalyzing": "Error analyzing image",
+  "@errorAnalyzing": {
+    "description": "Analysis error message"
+  },
+  
+  "errorCalculating": "Error calculating size",
+  "@errorCalculating": {
+    "description": "Calculation error message"
+  },
+  
+  "feedCalculationComplete": "Feed calculation completed successfully!",
+  "@feedCalculationComplete": {
+    "description": "Feed calculation success"
+  },
+  
+  "errorDuringCalculation": "Error during calculation",
+  "@errorDuringCalculation": {
+    "description": "Calculation error prefix"
+  }
+}
